@@ -1,0 +1,18 @@
+
+body {
+  font-family: Arial;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+input, button {
+  margin: 5px;
+  padding: 8px;
+}
+#chat-box, #history-box {
+  border: 1px solid #ccc;
+  height: 150px;
+  overflow-y: auto;
+  margin-top: 10px;
+  background: #fff;
+  padding: 10px;
+}
